@@ -51,8 +51,8 @@ A simple Rock, Paper, Scissors game implemented in shell scripting. This game al
 ```bash
       |==================================================================|
       |****** Rock, Paper, Scissors Game ********|
-      |****** Using Shell Scripting *********|
-      |****** Created By: Umair Munir ********|
+      |****** Using Shell Scripting *************|
+      |****** Created By: Umair Munir ***********|
       |==================================================================|
 
 ----------------------------------
@@ -78,10 +78,6 @@ Enter your option :
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests. For any issues or suggestions, open an issue in the repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
